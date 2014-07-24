@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-weekday-router",
+    "version"      : "1.0.0",
+    "description"  : "A sample node for node-red",
+    "dependencies": {
+    },
+    "keywords": [ "node-red router weekday" ],
+    "node-red"     : {
+        "nodes": {
+            "weekday router": "weekday-router.js"
+        }
+    }
+}
